@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "titulo": "Estudiar variables de entorno",
+        "descripcion": "Leer documentaci\u00f3n sobre configuraci\u00f3n de entorno en sistemas operativos.",
+        "estado": "pendiente"
+    },
+    {
+        "id": 1748560221,
+        "titulo": "Entrega de mapa mental",
+        "descripcion": "ya casi la acabo",
+        "estado": "en progreso"
+    },
+    {
+        "id": 1748560371,
+        "titulo": "Proyecto de mtaem\u00e1ticas",
+        "descripcion": "acabado",
+        "estado": "completada"
+    },
+    {
+        "id": 1748560413,
+        "titulo": "Sopa de letras ",
+        "descripcion": "est\u00e1 dif\u00edcil",
+        "estado": "en progreso"
+    },
+    {
+        "id": 1748560463,
+        "titulo": "Apunte de la clase",
+        "descripcion": "est\u00e1 listo",
+        "estado": "completada"
+    },
+    {
+        "id": 1748560510,
+        "titulo": "Tarea de ingl\u00e9s",
+        "descripcion": "no le entend\u00ed",
+        "estado": "pendiente"
+    }
+]
